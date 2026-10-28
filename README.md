@@ -1,5 +1,5 @@
 # Digital-Payment-Fraud-and-Risk-Analysis
-(https://github.com/user-attachments/files/34073456/README.md)
+
 # Digital Payment Risk & Fraud Analysis
 
 An end-to-end analytics project that explores **when, where and how fraud occurs** in digital payments, using **Python, SQL (MySQL) and Power BI**. It includes a rule-based risk-scoring model, and tests whether that model actually separates fraudulent from legitimate transactions.
@@ -39,11 +39,11 @@ A digital payments company wants to understand:
 
 **Page 1: Executive Overview**
 
-![Executive Overview](images/Executive_Overview_.png)
+<img width="1437" height="801" alt="Executive_Overview_" src="https://github.com/user-attachments/assets/19dbc240-29e1-4458-acc6-c831fe698745" />
 
 **Page 2: Risk Scoring**
 
-![Risk Scoring](images/Risk_Scoring.png)
+<img width="1432" height="851" alt="Risk_Scoring" src="https://github.com/user-attachments/assets/a6d737c2-f2fe-4651-b203-9c53d3c7f25f" />
 
 ## Key Findings
 
